@@ -6,3 +6,6 @@
   branch = "v0"
   path = "lib/prb-test"
   url = "https://github.com/PaulRBerg/prb-test"
+[submodule "lib/fuzzlib"]
+	path = lib/fuzzlib
+	url = https://github.com/perimetersec/fuzzlib
