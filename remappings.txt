@@ -1,3 +1,5 @@
 @prb/test/=lib/prb-test/src/
 forge-std/=lib/forge-std/src/
+@perimetersec/fuzzlib/src/=lib/fuzzlib/src/
+openzeppelin-contracts/contracts/=lib/openzeppelin-contracts/contracts/
 src/=src/

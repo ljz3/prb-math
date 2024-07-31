@@ -16,3 +16,11 @@
 .pnp.*
 yarn-debug.log*
 yarn-error.log*
+
+venv
+
+# Fuzz
+crytic-export
+echidna-corpus
+medusa-corpus
+med-logs
