@@ -8,7 +8,7 @@ import "src/Common.sol";
 /**
  * @title Fuzz
  * @author 0xScourgedev
- * @notice Fuzz contract to test the equivalence of both solidity
+ * @notice Fuzz contract to test the equivalence of the mulDivSigned function to a python implementation
  */
 contract Fuzz is FuzzBase {
     using Strings for int256;
